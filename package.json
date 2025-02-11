@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "@prisma/client": "^6.3.1",
     "express": "^4.21.2",
     "pg": "^8.13.1",
@@ -8,5 +9,9 @@
   },
   "devDependencies": {
     "prisma": "^6.3.1"
+=======
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+>>>>>>> e93f9a512be96b3eb8f05235c054289b0f7a6430
   }
 }
